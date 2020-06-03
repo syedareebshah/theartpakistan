@@ -1,0 +1,30 @@
+
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.potrait{
+    box-shadow: 5px 5px 15px black;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    height: auto;
+    min-width: 200px;
+    margin-bottom: 50px;
+    
+}
+.potrait img{
+    
+    width: 100%;
+
+}
+.parent h1{
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 5px blueviolet;
+}
